@@ -4,10 +4,9 @@ const player = videojs('main-player');
 async function initApp() {
     try {
         const res = await fetch('channels.json');
-        if(!res.ok) throw new Error('channels.json fetch failed');
         const json = await res.json();
         const data = json.iptv_channels;
-        
+
         const tabInner = document.getElementById('tabInner');
         const container = document.getElementById('channelContainer');
 
@@ -35,7 +34,7 @@ async function initApp() {
                 card.onclick = () => playVideo(channel.url, card);
 
                 if(!firstChannelPlayed) {
-                    setTimeout(() => playVideo(channel.url, card), 500);
+                    playVideo(channel.url, card);
                     firstChannelPlayed = true;
                 }
 
@@ -47,9 +46,8 @@ async function initApp() {
         });
 
         document.getElementById('preloader').style.display = 'none';
-
     } catch(err) {
-        alert('channels.json লোড হয়নি বা সমস্যা আছে!');
+        alert('channels.json লোড হয়নি!');
         console.error(err);
     }
 }
@@ -65,11 +63,7 @@ function playVideo(url, el) {
     document.querySelectorAll('.channel-card').forEach(c => c.classList.remove('active'));
     el.classList.add('active');
 
-    if(url.endsWith('.m3u8') || url.includes('m3u8')) {
-        player.src({ src: url, type:'application/x-mpegURL' });
-    } else {
-        player.src({ src: url, type:'video/mp4' });
-    }
+    player.src({src: url, type:'application/x-mpegURL'});
     player.play();
 }
 
