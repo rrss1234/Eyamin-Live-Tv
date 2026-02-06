@@ -1,52 +1,11 @@
 {
   "iptv_channels": {
     "Bangla": [
-      { "name": "Akash Go", "logo": "https://github.com/sonamul4545/Channel_logo-s/blob/main/Akash%20Go.jpg?raw=true", "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1707/output/index.m3u8" },
-      { "name": "BTV", "logo": "https://github.com/sonamul4545/Channel_logo-s/blob/main/BTV.jpg?raw=true", "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8" },
-      { "name": "BTV News", "logo": "https://github.com/sonamul4545/Channel_logo-s/blob/main/BTV_News.jpg?raw=true", "url": "https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/SG/d96eb7f4-83c2-4472-9597-3568390a8ebf/index.m3u8" },
-      { "name": "BTV CTG", "logo": "https://github.com/sonamul4545/Channel_logo-s/blob/main/BTV_CTG.jpg?raw=true", "url": "https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/SG/a707f2dc-9704-413a-a67c-17c64a77c350/index.m3u8" },
-      { "name": "SongSod TV", "logo": "https://github.com/sonamul4545/Channel_logo-s/blob/main/Sangsod.jpg?raw=true", "url": "https://www.btvlive.gov.bd/live/undefined/SG/9ee3b4f9-fd0a-47c5-a135-2575c5691613/index.m3u8" },
-      { "name": "Jamuna TV", "logo": "https://github.com/sonamul4545/Channel_logo-s/blob/main/Jamuna%20Tv.jpg?raw=true", "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8" },
-      { "name": "Somoy Tv", "logo": "https://github.com/sonamul4545/Channel_logo-s/blob/main/SomoyTv.jpg?raw=true", "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8" },
-      { "name": "Channel 24 HD", "logo": "https://github.com/sonamul4545/Channel_logo-s/blob/main/Channel%2024.png?raw=true", "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8" },
-      { "name": "Independent TV", "logo": "https://github.com/sonamul4545/Channel_logo-s/blob/main/Independent.jpg?raw=true", "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8" },
-      { "name": "Ekattor HD", "logo": "https://github.com/sonamul4545/Channel_logo-s/blob/main/Ekattor.jpg?raw=true", "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8" },
-      { "name": "ATN News", "logo": "https://github.com/sonamul4545/Channel_logo-s/blob/main/ATN%20NEWS.jpg?raw=true", "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8" },
-      { "name": "Deepto TV HD", "logo": "https://github.com/sonamul4545/Channel_logo-s/blob/main/Deepto%20Tv.jpg?raw=true", "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8" },
-      { "name": "Bangla Vision", "logo": "https://github.com/sonamul4545/Channel_logo-s/blob/main/Banglavision.jpg?raw=true", "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8" },
-      { "name": "NTV", "logo": "https://github.com/sonamul4545/Channel_logo-s/blob/main/NTV.jpg?raw=true", "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8" },
-      { "name": "ATN Bangla", "logo": "https://github.com/sonamul4545/Channel_logo-s/blob/main/ATN%20Bangla.jpg?raw=true", "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8" },
-      { "name": "Channel I HD", "logo": "https://github.com/sonamul4545/Channel_logo-s/blob/main/Channeli.jpg?raw=true", "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8" },
-      { "name": "Al Jazeera", "logo": "https://github.com/sonamul4545/Channel_logo-s/blob/main/Al%20Jazeera.jpg?raw=true", "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8" },
-      { "name": "SRKTV Bangla", "logo": "https://github.com/sonamul4545/Channel_logo-s/blob/main/SrkTV.jpg?raw=true", "url": "https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8" },
-      { "name": "Nagorik TV", "logo": "https://github.com/sonamul4545/Channel_logo-s/blob/main/Nagorik.jpg?raw=true", "url": "http://116.204.149.16/nagorik/index.m3u8" },
-      { "name": "DBC News", "logo": "https://github.com/sonamul4545/Channel_logo-s/blob/main/DBC%20News.jpg?raw=true", "url": "https://static.jagobd.com.bd/.../dbcnews.stream/playlist.m3u8" },
-      { "name": "G TV", "logo": "https://github.com/sonamul4545/Channel_logo-s/blob/main/GTV.jpg?raw=true", "url": "https://static.jagobd.com.bd/.../gazibdz.stream/playlist.m3u8" },
-      { "name": "T Sports", "logo": "https://github.com/sonamul4545/Channel_logo-s/blob/main/T%20Sports.jpg?raw=true", "url": "http://cdnd.sonyplex.com:8090/hls/tsportshd.m3u8" }
-    ],
-    "India": [
-      { "name": "Star Plus HD", "logo": "https://github.com/sonamul4545/Channel_logo-s/blob/main/Star%20Plus.jpg?raw=true", "url": "http://103.175.73.12:8080/live/1/1_0.m3u8" },
-      { "name": "Star Jalsha HD", "logo": "https://github.com/sonamul4545/Channel_logo-s/blob/main/Star%20Jalsha.jpg?raw=true", "url": "http://103.175.73.12:8080/live/194/194_0.m3u8" },
-      { "name": "Sony Max HD", "logo": "https://github.com/sonamul4545/Channel_logo-s/blob/main/Sony%20Max.jpg?raw=true", "url": "http://103.175.73.12:8080/live/33/33_0.m3u8" },
-      { "name": "Sony SAB HD", "logo": "https://github.com/sonamul4545/Channel_logo-s/blob/main/Sony%20Sab.jpg?raw=true", "url": "http://103.175.73.12:8080/live/5/5_0.m3u8" },
-      { "name": "Discovery HD", "logo": "https://github.com/sonamul4545/Channel_logo-s/blob/main/Discovery%20Bangla.png?raw=true", "url": "http://103.175.73.12:8080/live/135/135_0.m3u8" },
-      { "name": "Star Movies HD", "logo": "https://i.postimg.cc/9F01CcX7/Star-Movies.png", "url": "http://103.175.73.12:8080/live/56/56_0.m3u8" }
-    ],
-    "Pishow_India": [
-      { "name": "Rongeen Tv", "logo": "https://github.com/sonamul4545/Channel_logo-s/blob/main/Rangeen%20Tv.jpg?raw=true", "url": "https://cdn-4.pishow.tv/live/1029/master.m3u8" },
-      { "name": "Sangeet Bangla", "logo": "https://github.com/sonamul4545/Channel_logo-s/blob/main/Sangeet%20Bangla.jpg?raw=true", "url": "https://cdn-4.pishow.tv/live/1143/master.m3u8" },
-      { "name": "Goldmines", "logo": "https://github.com/sonamul4545/Channel_logo-s/blob/main/Goldmines.jpg?raw=true", "url": "https://cdn-2.pishow.tv/live/1459/master.m3u8" },
-      { "name": "Akash Aath", "logo": "https://github.com/sonamul4545/Channel_logo-s/blob/main/Akahsh%20Aath.jpg?raw=true", "url": "https://cdn-4.pishow.tv/live/969/master.m3u8" }
-    ],
-    "FreeTV_India": [
-      { "name": "The Q", "logo": "https://github.com/sonamul4545/Channel_logo-s/blob/main/The%20QTv.jpg?raw=true", "url": "https://mumt05.tangotv.in/THEQ/index.m3u8" },
-      { "name": "B4U Movies", "logo": "https://github.com/sonamul4545/Channel_logo-s/blob/main/B4U%20Movies.jpg?raw=true", "url": "https://mumt02.tangotv.in/B4UMOVIES/index.m3u8" }
-    ],
-    "All_In_One_Entertainment": [
-      { "name": "Zee Bangla", "logo": "https://github.com/sonamul4545/Channel_logo-s/blob/main/Zee%20Bangla.jpg?raw=true", "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/manifest.mpd", "clearkey": "1df83e058b864da896c9288eef63b113:fc32f26239054b56aab48225305598fe" },
-      { "name": "Cartoon Network", "logo": "https://github.com/sonamul4545/Channel_logo-s/blob/main/CN.jpg?raw=true", "url": "https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8" },
-      { "name": "Gopal Bhar", "logo": "https://github.com/sonamul4545/Channel_logo-s/blob/main/Gopal%20Bhar.jpg?raw=true", "url": "https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8" },
-      { "name": "Makkah TV", "logo": "https://github.com/sonamul4545/Channel_logo-s/blob/main/Makkah.jpg?raw=true", "url": "https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8" }
+      {
+        "name": "BTV",
+        "logo": "",
+        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8"
+      }
     ]
   }
 }
