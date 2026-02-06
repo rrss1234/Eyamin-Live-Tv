@@ -1,12 +1,11 @@
-
 {
   "iptv_channels": {
     "Bangla": [
-      { "name": "Akash Go", "logo": "https://github.com/sonamul4545/Channel_logo-s/blob/main/Akash%20Go.jpg?raw=true", "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1707/output/index.m3u8" },
-      { "name": "BTV", "logo": "https://github.com/sonamul4545/Channel_logo-s/blob/main/BTV.jpg?raw=true", "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8" }
-    ],
-    "India": [
-      { "name": "Star Plus HD", "logo": "https://github.com/sonamul4545/Channel_logo-s/blob/main/Star%20Plus.jpg?raw=true", "url": "http://103.175.73.12:8080/live/1/1_0.m3u8" }
+      {
+        "name": "BTV",
+        "logo": "",
+        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8"
+      }
     ]
   }
 }
